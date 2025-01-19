@@ -1,6 +1,7 @@
 # SAYNA-CULTUREG-PROJET1
 Projet 1 - Initiation à la  Culture Générale
-La réalisation du projet à été fait grace ç lutilisation d' éditeur de code ## WORD
+La réalisation du projet à été fait grace à lutilisation d' éditeur de code ## WORD
+
 # Projet : Développement de la Culture Générale  
 
 Ce projet met en lumière l'importance de la culture générale en proposant des pratiques et des recherches conçues pour enrichir vos connaissances et votre curiosité.  
