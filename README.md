@@ -40,7 +40,7 @@ Le document final est structuré en **PDF**, avec une navigation intuitive et de
 
 ## Ressources et Réseaux  
 
-- **LinkedIn** : [Lien vers LinkedIn](http://www.linkedin.com/in/kossi-kévin-kowouvi-365b42342)  
+- **LinkedIn** : [Lien vers LinkedIn](http://www.linkedin.com/in/k2vln)
 - **Twitter (X)** : [Lien vers Twitter](https://x.com/K2VlN)  
 - **Facebook** : [Lien vers Facebook](https://www.facebook.com/profile.php?id=100081951890712).  
 
